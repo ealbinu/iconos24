@@ -85,8 +85,6 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 ### :clipboard: TEMAS:
 
 * [DOM](./teoria-poo-js.md#dom)
-* [Eventos](./teoria-poo-js.md#eventos)
-* [BOM](./teoria-poo-js.md#bom)
 
 ### :pencil: TAREAS:
 
@@ -96,18 +94,19 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 ## :school: Sesión 4: 16 Febrero 2017
 
 ### :clipboard: TEMAS:
-* [Agente de Usuario](./teoria-poo-js.md#agente-de-usuario)
-* [Media Queries](./teoria-poo-js.md#media-queries)
+* [Eventos](./teoria-poo-js.md#eventos)
 
 ### :pencil: TAREAS:
 
 * Propuesta de Wireframes de todas las secciones del sitio web versión Desktop
+* Ejercicio de Programación
 
 
 ## :school: Sesión 5: 23 Febrero 2017
 
 ### :clipboard: TEMAS:
 
+* [Media Queries](./teoria-poo-js.md#media-queries)
 * Diseño Web basado en Componentes:
 	* Navegaciones Responsive
 
@@ -120,7 +119,8 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 ## :mortar_board: PRIMER EVALUACIÓN:
 
 * 10% Portafolio Web
-* 10% Objeto JS (código)
+* 5% Objeto JS (código)
+* 5% Tarea Eventos JS (código)
 * 5% Mapa de Sitio (pdf)
 * 20% Wireframes Mobile (pdf)
 * 20% Wireframes Desktop (pdf)
@@ -128,6 +128,17 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 * 20% Maquetación Comun (código)
 
 ### :date: ENTREGA: Sesión 6
+
+| Alumno | Calificación |
+| ---------- | ---------- |
+| Alumno   | ????????   |
+| Alumno   | ????????   |
+| Alumno   | ????????   |
+| Alumno   | ????????   |
+| Alumno   | ????????   |
+| Alumno   | ????????   |
+| Alumno   | ????????   |
+| Alumno   | ????????   |
 
 
 # Segundo Parcial
@@ -137,39 +148,34 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :clipboard: TEMAS:
 
-* [Formularios](./teoria-poo-js.md#formularios)
+* Evaluación del Primer Parcial
+* [BOM](./teoria-poo-js.md#bom)
+* [Agente de Usuario](./teoria-poo-js.md#agente-de-usuario)
 
 ### :pencil: TAREAS:
 
 * Maquetación (Mobile y Desktop) del Home del sitio, puede ser con contenido simulado
-* Del Libro Introducción a AJAX leer los siguientes capítulos:
-	* [Capítulo 7. Primeros pasos con AJAX](http://librosweb.es/libro/ajax/capitulo_7.html)
 
 
 ## :school: Sesión 7: 09 Marzo 2017
 
 ### :clipboard: TEMAS:
 
-* [AJAX](./teoria-poo-js.md#ajax)
-* [JSON](./teoria-poo-js.md#json)
+* [Formularios](./teoria-poo-js.md#formularios)
 
 ### :pencil: TAREAS:
 
 * Maquetación (Mobile y Desktop) Sección 1 del sitio, puede ser con contenido simulado
+* Del Libro Introducción a AJAX leer los siguientes capítulos:
+	* [Capítulo 7. Primeros pasos con AJAX](http://librosweb.es/libro/ajax/capitulo_7.html)
 
 
 ## :school: Sesión 8: 16 Marzo 2017
 
 ### :clipboard: TEMAS:
 
-* [API's](./teoria-poo-js.md#apis)
-* [JavaScript Diferido y Asíncrono](./teoria-poo-js.md#javascript-diferido-y-asíncrono)
-* [Front end Moderno](https://github.com/jonmircha/slides-herramientas-frontend)
-* [Editores & IDEs](./teoria-herramientas-frontend.md#editores--ides)
-* [Terminal de Comandos](./teoria-herramientas-frontend.md#terminal-de-comandos)
-* [Node.js](./teoria-herramientas-frontend.md#nodejs)
-* [NPM](./teoria-herramientas-frontend.md#npm)
-* [Paquetes NPM](./teoria-herramientas-frontend.md#paquetes-npm)
+* [AJAX](./teoria-poo-js.md#ajax)
+* [JSON](./teoria-poo-js.md#json)
 
 ### :pencil: TAREAS:
 
@@ -180,8 +186,9 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :clipboard: TEMAS:
 
-* [Gestores de Tareas](./teoria-herramientas-frontend.md#gestores-de-tareas)
-* Web Performance Optimization
+* [API's](./teoria-poo-js.md#apis)
+* [JavaScript Diferido y Asíncrono](./teoria-poo-js.md#javascript-diferido-y-asíncrono)
+* [EcmaScript 6](./teoria-es6.md)
 
 ### :pencil: TAREAS:
 
@@ -192,9 +199,8 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :clipboard: TEMAS:
 
-* [Git](./teoria-herramientas-frontend.md#git)
-* [GitHub](./teoria-herramientas-frontend.md#github)
-* [Más de Git & GitHub](./teoria-herramientas-frontend.md#más-de-git--github)
+* Implementación de API's HTML5
+* Implementación de Componentes Web de Terceros
 
 ### :pencil: TAREAS:
 
@@ -203,8 +209,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ## :mortar_board: SEGUNDA EVALUACIÓN:
 
-* 80% Maquetación (Mobile y Desktop) de **TODO** el sitio, puede ser con contenido simulado
-* 20% Desplegar el sitio web en GitHub Pages
+* 100% Maquetación (Mobile y Desktop) de **TODO** el sitio, puede ser con contenido simulado
 
 ### :date: ENTREGA: Sesión 11
 
@@ -216,7 +221,10 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :clipboard: TEMAS:
 
-* Implementación de Componentes Web de Terceros
+* Evaluación del Segundo Parcial
+* Historia del Front end
+* CLI, Editores & IDEs
+* Git & GitHub
 
 ### :pencil: TAREAS:
 
@@ -230,7 +238,10 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :clipboard: TEMAS:
 
-* Implementación de API's HTML5
+* Git + GitHub
+* Metalenguajes Front end y Gestores de Tareas
+* Node.js y NPM
+* NPM Scripts vs Task Runners
 
 ### :pencil: TAREAS:
 
@@ -247,14 +258,12 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 * Desplegar el sitio web en GitHub Pages
 
 
-
 ## :school: Sesión 13: 27 Abril 2017
 
 ### :clipboard: TEMAS:
 
-* [Preprocesadores](./teoria-herramientas-frontend.md#preprocesadores)
-* [Babel](./teoria-es6.md#babel)
-* [EcmaScript 6](./teoria-es6.md)
+* Identificando Tareas Front end
+* Workflow Front end
 
 ### :pencil: TAREAS:
 
@@ -265,11 +274,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :clipboard: TEMAS:
 
-* Programación Backend con JS
-	* Hola Mundo con Node.js
-	* Introducción al framework web Express.js
-	* Introducción a la plataforma Firebase
-* [Dominios & Hospedajes](./teoria-herramientas-frontend.md#dominios--hospedajes)
+* Web Performance Optimization
 
 ### :pencil: TAREAS:
 
@@ -291,8 +296,9 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 	1. Agente de Usuario y/o Media Queries
 	1. Formularios
 	1. JSON y AJAX
-1. 10% Implementación justificada de un Componente Web
-1. 10% Implementación justificada de un API HTML5
+1. 5% Implementación justificada de un Componente Web
+1. 5% Implementación justificada de un API HTML5
+1. 10% Proyecto desplegado en Github Pages
 1. 20% Sitio optimizado para su publicación en la Web
 	* Minificación y concatenación de archivos CSS y JS
 	* Minificación de archivos HTML
