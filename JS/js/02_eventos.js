@@ -104,17 +104,27 @@ function rojo(e) {
 		d.head.appendChild(hojaCSS);
 	}
 
-	w.onload = saludar;
+	//w.onload = saludar;
+	saludar();
 })(document, window);
 
 (function (d, w){
-	'use strict';
+		'use strict';
 
 	var reloj = d.querySelector('#reloj'),
 		//toLocaleString()  fecha y hora
 		//toLocaleDateString() fecha
 		//toLocaleTimeString() hora
-		fechaFormato = new Date().toLocaleTimeString();
+		fechaFormato = new Date().toLocaleTimeString(),
+		btnIniciarReloj = d.querySelector('#iniciar-reloj'),
+		btnIniciarAlarma = d.querySelector('#iniciar-alarma'),
+		btnDetenerReloj = d.querySelector('#detener-reloj'),
+		//declaración y asignación
+		btnDetenerAlarma = d.querySelector('#detener-alarma'),
+		alarma = d.createElement('audio'),
+		//declaración
+		temporizadorReloj,
+		temporizadorAlarma;
 
 		/*
 			1. Al dar clic al botón iniciar-reloj el reloj tiene que avanzar
@@ -137,7 +147,32 @@ function rojo(e) {
 				Repaso de Eventos https://www.youtube.com/watch?v=PkV-_58-CeE
 		*/
 
-	w.onload = function () {
+	w.addEventListener('load', function () {
+		reloj.style.fontSize = '500%';
 		reloj.innerHTML = fechaFormato;
-	}
+		alarma.src = './audio/alarma.mp3';
+		alarma.controls = true;
+		d.body.appendChild(alarma);
+
+		btnIniciarReloj.onclick = function () {
+			temporizadorReloj = setInterval(function () {
+				reloj.innerHTML = new Date().toLocaleTimeString();
+				console.log('ejecutándose interval');
+			}, 1000);
+		}
+
+		btnDetenerReloj.onclick = function () {
+			clearInterval(temporizadorReloj);
+		}
+
+		btnIniciarAlarma.addEventListener('click', function () {
+			temporizadorAlarma = setTimeout(function () {
+				alarma.play();
+			}, 3000);
+		});
+
+		btnDetenerAlarma.addEventListener('click', function () {
+			clearTimeout(temporizadorAlarma);
+		});
+	});
 })(document, window);
