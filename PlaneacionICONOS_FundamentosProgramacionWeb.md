@@ -72,7 +72,6 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 * [Las Buenas Partes de JavaScript](./teoria-poo-js.md#las-buenas-partes-de-javascript)
 * Objetos y Clases en JavaScript
-* [DOM](./teoria-poo-js.md#dom)
 
 ### :pencil: TAREAS:
 
