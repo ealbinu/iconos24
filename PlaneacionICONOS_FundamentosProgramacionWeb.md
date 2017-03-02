@@ -105,7 +105,6 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :clipboard: TEMAS:
 
-* [Media Queries](./teoria-poo-js.md#media-queries)
 * Diseño Web basado en Componentes:
 	* Navegaciones Responsive
 
@@ -147,16 +146,40 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :clipboard: TEMAS:
 
+* Navegación Responsive
+* [Media Queries](./teoria-poo-js.md#media-queries)
 * Evaluación del Primer Parcial
-* [BOM](./teoria-poo-js.md#bom)
-* [Agente de Usuario](./teoria-poo-js.md#agente-de-usuario)
+
+### :pencil: TAREAS:
+
+* No hay tarea
+
+
+## :school: Sesión 7: 09 Marzo 2017
+
+### :clipboard: TEMAS:
+
+* Sistema de Maquetación Flexbox
 
 ### :pencil: TAREAS:
 
 * Maquetación (Mobile y Desktop) del Home del sitio, puede ser con contenido simulado
 
 
-## :school: Sesión 7: 09 Marzo 2017
+## :school: Sesión 8: 16 Marzo 2017
+
+### :clipboard: TEMAS:
+
+* [BOM](./teoria-poo-js.md#bom)
+* [Agente de Usuario](./teoria-poo-js.md#agente-de-usuario)
+* Gestos Táctiles
+
+### :pencil: TAREAS:
+
+* Maquetación (Mobile y Desktop) Sección 1 del sitio, puede ser con contenido simulado
+
+
+## :school: Sesión 9: 23 Marzo 2017
 
 ### :clipboard: TEMAS:
 
@@ -164,12 +187,12 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :pencil: TAREAS:
 
-* Maquetación (Mobile y Desktop) Sección 1 del sitio, puede ser con contenido simulado
+* Maquetación (Mobile y Desktop) Sección 2 del sitio, puede ser con contenido simulado
 * Del Libro Introducción a AJAX leer los siguientes capítulos:
 	* [Capítulo 7. Primeros pasos con AJAX](http://librosweb.es/libro/ajax/capitulo_7.html)
 
 
-## :school: Sesión 8: 16 Marzo 2017
+## :school: Sesión 10: 30 Marzo 2017
 
 ### :clipboard: TEMAS:
 
@@ -178,31 +201,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :pencil: TAREAS:
 
-* Maquetación (Mobile y Desktop) Sección 2 del sitio, puede ser con contenido simulado
-
-
-## :school: Sesión 9: 23 Marzo 2017
-
-### :clipboard: TEMAS:
-
-* [API's](./teoria-poo-js.md#apis)
-* [JavaScript Diferido y Asíncrono](./teoria-poo-js.md#javascript-diferido-y-asíncrono)
-* [EcmaScript 6](./teoria-es6.md)
-
-### :pencil: TAREAS:
-
 * Maquetación (Mobile y Desktop) Sección 3 del sitio, puede ser con contenido simulado
-
-
-## :school: Sesión 10: 30 Marzo 2017
-
-### :clipboard: TEMAS:
-
-* Implementación de API's HTML5
-* Implementación de Componentes Web de Terceros
-
-### :pencil: TAREAS:
-
 * Maquetación (Mobile y Desktop) Sección 4 del sitio, puede ser con contenido simulado
 
 
@@ -221,6 +220,11 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 ### :clipboard: TEMAS:
 
 * Evaluación del Segundo Parcial
+* [API's](./teoria-poo-js.md#apis)
+	* Implementación de API's HTML5
+	* Implementación de Componentes Web de Terceros
+* [JavaScript Diferido y Asíncrono](./teoria-poo-js.md#javascript-diferido-y-asíncrono)
+* [EcmaScript 6](./teoria-es6.md)
 * Historia del Front end
 * CLI, Editores & IDEs
 * Git & GitHub
