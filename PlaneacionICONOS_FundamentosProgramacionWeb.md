@@ -136,7 +136,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 | Adriana Carreón | 0 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 1 | ?? |
 | Itzel Salinas | 1 | 10 + 5 + 5 + 5 + 20 + 20 + 15 + 20 - 1 | 9 |
 | Jonathan Sanchez | 0 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 0 | ?? |
-| Ian Paredes | 1 | 0 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 1 | ?? |
+| Ian Paredes | 1 | 0 + 5 + 5 + 5 + 20 + 20 + 0 + 20 - 1 | 7 |
 
 
 # Segundo Parcial
