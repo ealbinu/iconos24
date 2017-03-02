@@ -118,8 +118,8 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 * 10% Portafolio Web
 * 5% Objeto JS (código)
-* 5% Tarea Eventos JS (código)
 * 5% Mapa de Sitio (pdf)
+* 5% Tarea Eventos JS (código)
 * 20% Wireframes Mobile (pdf)
 * 20% Wireframes Desktop (pdf)
 * 15% Navegación Responsive (código)
@@ -127,16 +127,16 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :date: ENTREGA: Sesión 6
 
-| Alumno | Calificación |
-| ---------- | ---------- |
-| Mario Huerta   | ????????   |
-| Diana Martínez | ????????   |
-| Valeria Montalvo   | ????????   |
-| Cesar Caballero   | ????????   |
-| Adriana Carreón   | ????????   |
-| Itzel Salinas   | ????????   |
-| Jonathan Sanchez   | ????????   |
-| Ian Paredes   | ????????   |
+| Alumno | Faltas | Actividades | Calificación | 
+| ---------- | ---------- | ---------- | ---------- |
+| Mario Huerta   | 0 | 5 + 0 + 0 + 5 + 20 + 20 + ?? + ?? - 0 | ?? |
+| Diana Martínez | 0 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 0 | ?? |
+| Valeria Montalvo | 1 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 1 | ?? |
+| Cesar Caballero | 0 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 0 | ?? |
+| Adriana Carreón | 0 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 1 | ?? |
+| Itzel Salinas | 1 | 10 + 5 + 5 + 5 + 20 + 0 + ?? + ?? - 1 | ?? |
+| Jonathan Sanchez | 0 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 0 | ?? |
+| Ian Paredes | 1 | 0 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 1 | ?? |
 
 
 # Segundo Parcial
