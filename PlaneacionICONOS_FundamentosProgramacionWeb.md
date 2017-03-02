@@ -129,7 +129,7 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 | Alumno | Faltas | Actividades | Calificación | 
 | ---------- | ---------- | ---------- | ---------- |
-| Mario Huerta   | 0 | 5 + 0 + 0 + 5 + 20 + 20 + ?? + ?? - 0 | ?? |
+| Mario Huerta   | 0 | 5 + 0 + 0 + 5 + 20 + 20 + 15 + 15 - 0 | 8 |
 | Diana Martínez | 0 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 0 | ?? |
 | Valeria Montalvo | 1 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 1 | ?? |
 | Cesar Caballero | 0 | 10 + 5 + 5 + 5 + 20 + 20 + ?? + ?? - 0 | ?? |
