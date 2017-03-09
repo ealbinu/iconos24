@@ -1,0 +1,65 @@
+html {
+	box-sizing: border-box;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+*,
+*:after,
+*:before {
+	box-sizing: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: auto;
+	width: 75vw;
+	height: 50vh;
+	border: thin solid greenyellow;
+	background-color: #333;
+	/* define un caja flexible de bloque o de linea */
+	/* flex | inline-flex */
+	display: flex;
+	/* define el eje principal y el transversal de la caja flexible */
+	/* row | row-reverse | column | column-reverse */
+	flex-direction: row;
+	/* determina la existencia o no de saltos de línea y su sentido */
+	/* nowrap | wrap | wrap-reverse */
+	flex-wrap: wrap;
+	 /* alineación de los hijos en el eje principal (espacio sobrante) */
+	/* flex-start | flex-end | center | space-between | space-around */
+	justify-content: center;
+	/* alineación de los hijos en el eje transversal (espacio sobrante) cuando NO HAY saltos de línea  */
+	/* stretch | flex-start | flex-end | center | baseline */
+	align-items: stretch;
+	/* alineación de los hijos en el eje transversal (espacio sobrante) cuando SI HAY saltos de línea */
+	/* stretch | flex-start | flex-end | center | space-between | space-around */
+	align-content: space-around;
+}
+
+.item {
+	/*
+	flex: none;
+			es equivalente a flex: 0 0 auto;
+			dimensiona el elemento según su ancho y alto
+			y lo hace inflexible para absorber espacio sobrante del eje principal
+	*/
+	/*
+	flex: auto;
+			es equivalente a flex: 1 1 auto;
+			dimensiona el elemento según su ancho y alto
+			y lo hace flexible para absorber espacio sobrante del eje principal
+	*/
+	flex: auto;
+	width: 13%;
+	height: 20%;
+  font-size: 2rem;
+	border: thin solid greenyellow;
+  background-color: #999;
+}
+
+.item:nth-child(10) {
+	font-size: 4rem;
+	order: 1;
+}	
