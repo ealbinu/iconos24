@@ -1,0 +1,14 @@
+.container-fluid {
+	background-color: #222;
+}
+
+.container {
+	background-color: #666;
+	padding: 1rem;
+}
+
+.item {
+	background-color: #CCC;
+	border: thin solid #222;
+	padding: 1rem;
+}
