@@ -9,15 +9,15 @@
 	<loc>http://midominio.com/</loc>
 </url>
 <url>
-	<loc>http://midominio.com/seccion1</loc>
+	<loc>http://midominio.com/acerca.html</loc>
 </url>
 <url>
-	<loc>http://midominio.com/seccion2</loc>
+	<loc>http://midominio.com/maratones.html</loc>
 </url>
 <url>
-	<loc>http://midominio.com/seccion3</loc>
+	<loc>http://midominio.com/inspirate.html</loc>
 </url>
 <url>
-	<loc>http://midominio.com/seccion4</loc>
+	<loc>http://midominio.com/contacto.html</loc>
 </url>
 </urlset>
