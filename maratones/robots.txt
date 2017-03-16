@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+Sitemap: ./sitemap.xml
+
+https://www.emezeta.com/articulos/robots-txt-todo-lo-que-deberia-saber
