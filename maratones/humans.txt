@@ -1,14 +1,14 @@
-/* El título de mi sitio - http://midominio.com */
+/* Maratones - http://midominio.com */
 
 /* TEAM */
 	Diseño y Programación Web: Jonathan MirCha
 	Contact: jonmircha [at] gmail.com
 	Twitter: @jonmircha
-	From: Mexico city, México
+	From: Mexico City, México
 
 /* SITE */
-	Last update: 2017/03/15
+	Last update: 2017/03/16
 	Language: Español
-	Standars: HTML5, CSS3, JavaScript, PHP, MySQL
-	Components: Responsive Design, Node.js, NPM, WordPress
-	Software: Visual Studio Code, PowerShell, Chrome, Fireworks, Illustrator, Photoshop
+	Standars: HTML, CSS, JavaScript
+	Components: Responsive Design, Mobile First
+	Software: Visual Studio Code, PowerShell, Chrome, Fireworks, Illustrator
