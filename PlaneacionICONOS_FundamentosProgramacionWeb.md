@@ -211,6 +211,16 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ### :date: ENTREGA: Sesión 11
 
+| Alumno | Faltas | Actividades | Calificación | 
+| ---------- | ---------- | ---------- | ---------- |
+| Mario Huerta   | 1 | 8 + 9 - 0 | ? |
+| Diana Martínez | 0 | 10 + 10 - 0 | ? |
+| Valeria Montalvo | 0 | 10 + 10 - 0 | ? |
+| Cesar Caballero | 0 | 10 + 10 - 0 | ? |
+| Adriana Carreón | 0 | 7 + 10 - 0 | ? |
+| Itzel Salinas | 0 | 10 + 8 - 0 | ? |
+| Jonathan Sanchez | 0 | 7 + 8 - 0 | ? |
+| Ian Paredes | 1 | 10 + 10 - 0 | ? |
 
 # Fase Final
 
