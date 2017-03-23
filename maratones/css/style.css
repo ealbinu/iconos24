@@ -5,9 +5,23 @@ iframe {
 	height: auto;
 }
 
+[required]:invalid {
+	border: thin solid #FF0000;
+	outline: thin solid #FF0000;
+}
+
+[required]:valid {
+	border: thin solid #00FF00;
+	outline: thin solid #00FF00;
+}
+
 /* Sección de Contacto */
 .Contact > * {
 	background-color: #CCC;
+}
+
+.Contact-form > * {
+	display: block;
 }
 
 @media screen and (min-width: 64em) {

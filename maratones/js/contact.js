@@ -14,3 +14,15 @@
 	mq.addListener(showMap);
 	showMap(mq);
 })(document, window);
+
+(function (d, w) {
+	'use strict';
+
+	var form = d.forms[0];
+
+	form.addEventListener('submit', function (e) {
+		e.preventDefault();
+
+		alert('El formulario se procesa');
+	});
+})(document, window);
