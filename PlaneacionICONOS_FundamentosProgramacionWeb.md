@@ -207,20 +207,25 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 ## :mortar_board: SEGUNDA EVALUACIÓN:
 
-* 100% Maquetación (Mobile y Desktop) de **TODO** el sitio, puede ser con contenido simulado
+* 100% Promedio de Avance de Proyecto
+	* Carpeta de Proyecto organizada
+	* Patrón de Navegación definido
+	* Sección de Home (Maquetación Terminada)
+	* Sección de Contacto con Formulario integrado (Maquetación Terminada)
+	* Sección con carga de contenido AJAX / JSON (Maquetación Terminada)
 
 ### :date: ENTREGA: Sesión 11
 
 | Alumno | Faltas | Actividades | Calificación | 
 | ---------- | ---------- | ---------- | ---------- |
-| Mario Huerta   | 1 | 8 + 9 - 0 | ? |
-| Diana Martínez | 0 | 10 + 10 - 0 | ? |
-| Valeria Montalvo | 0 | 10 + 10 - 0 | ? |
-| Cesar Caballero | 0 | 10 + 10 - 0 | ? |
-| Adriana Carreón | 0 | 7 + 10 - 0 | ? |
-| Itzel Salinas | 0 | 10 + 8 - 0 | ? |
-| Jonathan Sanchez | 0 | 7 + 8 - 0 | ? |
-| Ian Paredes | 1 | 10 + 10 - 0 | ? |
+| Mario Huerta   | 2 | 8 + 9 + ? + ? - 0 | ? |
+| Diana Martínez | 0 | 10 + 10 + ? + ? - 0 | ? |
+| Valeria Montalvo | 0 | 10 + 10 + ? + ? - 0 | ? |
+| Cesar Caballero | 0 | 10 + 10 + ? + ? - 0 | ? |
+| Adriana Carreón | 0 | 7 + 10 + ? + ? - 0 | ? |
+| Itzel Salinas | 0 | 10 + 8 + ? + ? - 0 | ? |
+| Jonathan Sanchez | 0 | 7 + 8 + ? + ? - 0 | ? |
+| Ian Paredes | 1 | 10 + 10 + ? + ? - 0 | ? |
 
 # Fase Final
 
