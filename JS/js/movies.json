@@ -1,0 +1,22 @@
+{
+	"movies": [
+		{
+			"title": "It",
+			"year": "2017",
+			"genres": "Drama, Horror",
+			"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk1NzI1ODg3M15BMl5BanBnXkFtZTgwNzM0Mzc4MTI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+		},
+		{
+			"title": "Wonder Woman",
+			"year": "2017",
+			"genres": "Action, Adventure, Fantasy",
+			"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+		},
+		{
+			"title": "The LEGO Batman Movie",
+			"year": "2017",
+			"genres": "Animation, Action, Adventure",
+			"poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+		}
+	]
+}
