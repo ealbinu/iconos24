@@ -23,3 +23,19 @@ Información para instalar WordPress localmente con XAMPP
 * Contraseña: ''
 * Servidor de la base de datos: localhost
 * Prefijo de tabla: el que tu quieras
+
+## Clase 2: Taxonimía de WordPress
+
+* Categorías
+* Enntradas
+* Etiquetas
+* Págiinas
+* Administrador de WordPress
+* Generar contenido
+
+## Actividades:
+
+1. Instalación Remota de WordPress
+1. Definir Categorias y Páginas del Proyecto (Mapa de Sitio)
+1. Definir enlaces permanentes
+1. Crear un usuario al correo jonmircha@gmail.com como Administrador con la contraseña Iconos_24
