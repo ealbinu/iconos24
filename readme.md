@@ -11,8 +11,9 @@ Blog de la temática asignada
 
 100% de las actividades
 
-## Clase 1: Instalación de WordPress
+## Clase 1: 
 
+* Instalación de WordPress
 * [Video Instalación WordPress](https://www.youtube.com/watch?v=lE4wO3C4Eyg&list=PLvq-jIkSeTUZDOcKsQz79wnYlTvmAdLkj&index=4)
 * [Duplicator](https://es-mx.wordpress.org/plugins/duplicator/)
 
@@ -24,14 +25,16 @@ Información para instalar WordPress localmente con XAMPP
 * Servidor de la base de datos: localhost
 * Prefijo de tabla: el que tu quieras
 
-## Clase 2: Taxonimía de WordPress
+## Clase 2:
 
-* Categorías
-* Enntradas
-* Etiquetas
-* Págiinas
+* Taxonomía de WordPress
+  * Categorías
+  * Entradas
+  * Etiquetas
+  * Páginas
 * Administrador de WordPress
-* Generar contenido
+  * Opciones del administrador
+  * Generar contenido
 
 ## Actividades:
 
