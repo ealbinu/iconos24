@@ -69,6 +69,8 @@ Información para instalar WordPress localmente con XAMPP
 1. Entrega del Artículo 1 de su blog (Se revisa Miércoles a las 4pm)
 1. Elegir un tema
 
+## Primer Parcial:
+
 | Alumno | Faltas | Actividades | Calificación | 
 | ---------- | ---------- | ---------- | ---------- |
 | Mario Huerta   | 1 | 0 + 0 | ? |
