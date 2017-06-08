@@ -14,7 +14,7 @@ Requisitos de artículos:
   * Mínimo 200 palabras por artículo.
   * Se revisará ortografía y redacción.
   * Cada error ortográfico restará una decima de calificación.
-  * Los días de entrega del artículo serán los Miércoles a las 4pm.
+  * Los días de entrega del artículo serán los **Miércoles a las 4pm**.
 
 
 ## Primer Parcial
@@ -57,18 +57,25 @@ Información para instalar WordPress localmente con XAMPP
 
 * Administrador de WordPress
   * Ajustes
+  * Comentarios
   * Temas
-  * Plugins
+  * Personalización de Temas
   * Widgets
   * Menús
 
+## Actividades:
+
+1. Corregir Taxonomía del Sitio
+1. Entrega del Artículo 1 de su blog (Se revisa Miércoles a las 4pm)
+1. Elegir un tema
+
 | Alumno | Faltas | Actividades | Calificación | 
 | ---------- | ---------- | ---------- | ---------- |
-| Mario Huerta   | 0 | 0 + 0 | ? |
+| Mario Huerta   | 1 | 0 + 0 | ? |
 | Diana Martínez | 0 | 10 + 9 | ? |
 | Valeria Montalvo | 0 | 10 + 9 | ? |
 | Cesar Caballero | 0 | 10 + 9 | ? |
 | Adriana Carreón | 0 | 10 + 9 | ? |
-| Itzel Salinas | 0 |  | 10 + 9 |
+| Itzel Salinas | 1 | 10 + 9 | ? |
 | Jonathan Sanchez | 0 | 10 + 9 | ? |
-| Ian Paredes | 0 | 10 + 9 | ? |
+| Ian Paredes | 1 | 10 + 9 | ? |
