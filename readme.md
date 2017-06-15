@@ -98,8 +98,8 @@ Información para instalar WordPress localmente con XAMPP
     <td>1<td>
     <td>?<td>
   </tr>
-  <tr>
-    <td colspan="4">
+  <tr colspan="4">
+    <td>
       Sitio ????<br>
       A1: No entregado
     <td>
