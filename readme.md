@@ -85,10 +85,30 @@ Información para instalar WordPress localmente con XAMPP
 
 ## Primer Parcial:
 
+<table>
+  <tr>
+    <th>Alumno<th>
+    <th>Actividades<th>
+    <th>Faltas<th>
+    <th>Calificación<th>
+  </tr>
+  <tr>
+    <td>Mario Huerta<td>
+    <td>0 + 0 + A1:0<td>
+    <td>1<td>
+    <td>?<td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Sitio ????<br>
+      A1: No entregado
+    <td>
+  </tr>
+</table> 
 | Alumno | Faltas | Actividades | Calificación | 
 | ---------- | ---------- | ---------- | ---------- |
 | Mario Huerta   | 1 | 0 + 0 + A1:0 | ? |
-| | | Sitio ???? <br> A1: No entregado | |
+| | |  | |
 | Diana Martínez | 0 | 10 + 9 + A1:10 | ? |
 | | | Sitio http://holaneek.esy.es/ <br> A1: http://holaneek.esy.es/abierto-mexicano-de-diseno/ | |
 | Valeria Montalvo | 0 | 10 + 9 + A1:10 | ? |
