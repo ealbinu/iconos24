@@ -100,9 +100,25 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td colspan="4">
-      Sitio ????<br>
-      A1: No entregado
-    <td>
+      <ul>
+        <li><b>Url Sitio:</b> ????</li>
+        <li><b>Url Tema:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Categorías:</b> ????</li>
+        <li><b>Páginas:</b> ????</li>
+      </ul>
+      <ol>
+        <li>No entregado</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
   </tr>
 </table> 
 | Alumno | Faltas | Actividades | Calificación | 
