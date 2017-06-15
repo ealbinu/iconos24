@@ -88,7 +88,7 @@ Información para instalar WordPress localmente con XAMPP
 | Alumno | Faltas | Actividades | Calificación | 
 | ---------- | ---------- | ---------- | ---------- |
 | Mario Huerta   | 1 | 0 + 0 + A1:0 | ? |
-| Sitio ???? | | | |
+| | | Sitio ???? | |
 | A1: No entregado |
 | Diana Martínez | 0 | 10 + 9 + A1:10 | ? |
 | Sitio http://holaneek.esy.es/ |
