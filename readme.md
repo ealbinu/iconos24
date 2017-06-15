@@ -91,8 +91,8 @@ Información para instalar WordPress localmente con XAMPP
 | | | Sitio ???? | |
 | | | A1: No entregado | |
 | Diana Martínez | 0 | 10 + 9 + A1:10 | ? |
-| | | Sitio http://holaneek.esy.es/ | |
-| | | A1: http://holaneek.esy.es/abierto-mexicano-de-diseno/ | |
+| | | Sitio http://holaneek.esy.es/
+      A1: http://holaneek.esy.es/abierto-mexicano-de-diseno/ | |
 | Valeria Montalvo | 0 | 10 + 9 + A1:10 | ? |
 | | | Sitio http://holaneek.esy.es/ | |
 | | | A1: http://holaneek.esy.es/cultivo-casero/ | |
