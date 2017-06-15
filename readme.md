@@ -80,8 +80,10 @@ Información para instalar WordPress localmente con XAMPP
 
 1. Entrega del Artículo 2 de su blog (Se revisa Miércoles a las 4pm)
 1. Terminar la definición de taxonomías
-1. Terminar la elección de tema
+1. Terminar la elección de tema (plantilla)
 1. Terminar la definición de enlaces permanentes
+1. Terminar la definición de URL para el proyecto
+1. Implementación de Formulario (Contact Form 7)
 
 ## Primer Parcial:
 
@@ -288,4 +290,5 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
       </ol>
   </tr>
+ 
 </table>
