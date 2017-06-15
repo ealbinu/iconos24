@@ -73,11 +73,19 @@ Información para instalar WordPress localmente con XAMPP
 
 | Alumno | Faltas | Actividades | Calificación | 
 | ---------- | ---------- | ---------- | ---------- |
-| Mario Huerta   | 1 | 0 + 0 | ? |
+| Mario Huerta   | 1 | 0 + 0 + A1:0 | ? |
+| A1: No entregado |
 | Diana Martínez | 0 | 10 + 9 | ? |
-| Valeria Montalvo | 0 | 10 + 9 | ? |
+| A1:  |
+| Valeria Montalvo | 0 | 10 + 9 + A1:10 | ? |
+| A1:  |
 | Cesar Caballero | 0 | 10 + 9 | ? |
-| Adriana Carreón | 0 | 10 + 9 | ? |
-| Itzel Salinas | 1 | 10 + 9 | ? |
+| A1:  |
+| Adriana Carreón | 0 | 10 + 9 + A1:10 | ? |
+| A1: http://cerobullying.esy.es/2017/06/proyecto-integrador/ |
+| Itzel Salinas | 1 | 10 + 9 + A1:10 | ? |
+| A1:  |
 | Jonathan Sanchez | 0 | 10 + 9 | ? |
-| Ian Paredes | 1 | 10 + 9 | ? |
+| A1:  |
+| Ian Paredes | 1 | 10 + 9 | + A1:0 |
+| A1: No entregado |
