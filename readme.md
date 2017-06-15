@@ -69,23 +69,45 @@ Información para instalar WordPress localmente con XAMPP
 1. Entrega del Artículo 1 de su blog (Se revisa Miércoles a las 4pm)
 1. Elegir un tema
 
+## Clase 4:
+
+* Plugins
+  * Duplicator
+  * Contact Form 7
+  * EWWW Image Optimizer
+
+## Actividades:
+
+1. Entrega del Artículo 2 de su blog (Se revisa Miércoles a las 4pm)
+1. Terminar la definición de taxonomías
+1. Terminar la elección de tema
+1. Terminar la definición de enlaces permanentes
+
 ## Primer Parcial:
 
 | Alumno | Faltas | Actividades | Calificación | 
 | ---------- | ---------- | ---------- | ---------- |
 | Mario Huerta   | 1 | 0 + 0 + A1:0 | ? |
+| Sitio ???? |
 | A1: No entregado |
-| Diana Martínez | 0 | 10 + 9 | ? |
-| A1:  |
+| Diana Martínez | 0 | 10 + 9 + A1:10 | ? |
+| Sitio http://holaneek.esy.es/ |
+| A1: http://holaneek.esy.es/abierto-mexicano-de-diseno/ |
 | Valeria Montalvo | 0 | 10 + 9 + A1:10 | ? |
-| A1:  |
-| Cesar Caballero | 0 | 10 + 9 | ? |
-| A1:  |
+| Sitio http://holaneek.esy.es/ |
+| A1: http://holaneek.esy.es/cultivo-casero/ |
+| Cesar Caballero | 0 | 10 + 9 + A1:10 | ? |
+| Sitio http://cesarbcaballeroglz.esy.es/ |
+| A1: http://cesarbcaballeroglz.esy.es/proyecto-integrador/ |
 | Adriana Carreón | 0 | 10 + 9 + A1:10 | ? |
-| A1: http://cerobullying.esy.es/2017/06/proyecto-integrador/ |
+| Sitio http://cerobullying.esy.es/ |
+| A1: http://cerobullying.esy.es/2017/06/nuestra_basura/ |
 | Itzel Salinas | 1 | 10 + 9 + A1:10 | ? |
-| A1:  |
-| Jonathan Sanchez | 0 | 10 + 9 | ? |
-| A1:  |
-| Ian Paredes | 1 | 10 + 9 | + A1:0 |
-| A1: No entregado |
+| Sitio http://ittzelsace.hol.es/SEXTO/ |
+| A1: http://ittzelsace.hol.es/SEXTO/2017/06/15/los-gigantes-de-la-apropiacion/ |
+| Jonathan Sanchez | 0 | 10 + 9 + A1:10 | ? |
+| Sitio http://subterraneo.esy.es/ |
+| A1: http://subterraneo.esy.es/sin-categoria/06/14/diseno-en-la-tecnologia/ |
+| Ian Paredes | 1 | 10 + 9 | + A1:10 |
+| Sitio http://ddnai.esy.es/ |
+| A1: http://ddnai.esy.es/2017/06/15/la-realidad-virtual/ |
