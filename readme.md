@@ -87,16 +87,16 @@ Información para instalar WordPress localmente con XAMPP
 
 <table>
   <tr>
-    <th>Alumno<th>
-    <th>Actividades<th>
-    <th>Faltas<th>
-    <th>Calificación<th>
+    <th>Alumno</th>
+    <th>Actividades</th>
+    <th>Faltas</th>
+    <th>Calificación</th>
   </tr>
   <tr>
-    <td>Mario Huerta<td>
-    <td>0 + 0 + A1:0<td>
-    <td>1<td>
-    <td>?<td>
+    <td>Mario Huerta</td>
+    <td>0 + 0 + A1:0</td>
+    <td>1</td>
+    <td>?</td>
   </tr>
   <tr colspan="4">
     <td>
