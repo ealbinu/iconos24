@@ -95,6 +95,35 @@ Información para instalar WordPress localmente con XAMPP
     <th>Calificación</th>
   </tr>
   <tr>
+    <td>Itzel Salinas</td>
+    <td>10 + 9 + A1:10</td>
+    <td>2</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <ul>
+        <li><b>Url Sitio:</b> http://ittzelsace.hol.es/SEXTO/</li>
+        <li><b>Url Tema:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Categorías:</b> ????</li>
+        <li><b>Páginas:</b> ????</li>
+      </ul>
+      <h2>Artículos</h2>
+      <ol>
+        <li>http://ittzelsace.hol.es/SEXTO/2017/06/15/los-gigantes-de-la-apropiacion/</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+  </tr>
+  <tr>
     <td>Mario Huerta</td>
     <td>0 + 0 + A1:0</td>
     <td>1</td>
@@ -109,6 +138,7 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Categorías:</b> ????</li>
         <li><b>Páginas:</b> ????</li>
       </ul>
+      <h2>Artículos</h2>
       <ol>
         <li>No entregado</li>
         <li></li>
@@ -137,6 +167,7 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Categorías:</b> ????</li>
         <li><b>Páginas:</b> ????</li>
       </ul>
+      <h2>Artículos</h2>
       <ol>
         <li>http://holaneek.esy.es/abierto-mexicano-de-diseno/</li>
         <li></li>
@@ -165,6 +196,7 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Categorías:</b> ????</li>
         <li><b>Páginas:</b> ????</li>
       </ul>
+      <h2>Artículos</h2>
       <ol>
         <li>http://holaneek.esy.es/cultivo-casero/</li>
         <li></li>
@@ -193,6 +225,7 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Categorías:</b> ????</li>
         <li><b>Páginas:</b> ????</li>
       </ul>
+      <h2>Artículos</h2>
       <ol>
         <li>http://cesarbcaballeroglz.esy.es/proyecto-integrador/</li>
         <li></li>
@@ -221,6 +254,7 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Categorías:</b> ????</li>
         <li><b>Páginas:</b> ????</li>
       </ul>
+      <h2>Artículos</h2>
       <ol>
         <li>http://cerobullying.esy.es/2017/06/nuestra_basura/</li>
         <li></li>
@@ -249,6 +283,7 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Categorías:</b> ????</li>
         <li><b>Páginas:</b> ????</li>
       </ul>
+      <h2>Artículos</h2>
       <ol>
         <li>http://subterraneo.esy.es/sin-categoria/06/14/diseno-en-la-tecnologia/</li>
         <li></li>
@@ -277,6 +312,7 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Categorías:</b> ????</li>
         <li><b>Páginas:</b> ????</li>
       </ul>
+      <h2>Artículos</h2>
       <ol>
         <li>http://ddnai.esy.es/2017/06/15/la-realidad-virtual/</li>
         <li></li>
@@ -290,5 +326,4 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
       </ol>
   </tr>
- 
 </table>
