@@ -120,25 +120,172 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
       </ol>
   </tr>
-</table> 
-| Alumno | Faltas | Actividades | Calificación | 
-| ---------- | ---------- | ---------- | ---------- |
-| Mario Huerta   | 1 | 0 + 0 + A1:0 | ? |
-| | |  | |
-| Diana Martínez | 0 | 10 + 9 + A1:10 | ? |
-| | | Sitio http://holaneek.esy.es/ <br> A1: http://holaneek.esy.es/abierto-mexicano-de-diseno/ | |
-| Valeria Montalvo | 0 | 10 + 9 + A1:10 | ? |
-| | | Sitio http://holaneek.esy.es/ <br> A1: http://holaneek.esy.es/cultivo-casero/ | |
-| Cesar Caballero | 0 | 10 + 9 + A1:10 | ? |
-| | | Sitio http://cesarbcaballeroglz.esy.es/ <br> A1: http://cesarbcaballeroglz.esy.es/proyecto-integrador/ | |
-| Adriana Carreón | 0 | 10 + 9 + A1:10 | ? |
-| | | Sitio http://cerobullying.esy.es/ <br> A1: http://cerobullying.esy.es/2017/06/nuestra_basura/ | |
-| Itzel Salinas | 1 | 10 + 9 + A1:10 | ? |
-| | | Sitio http://ittzelsace.hol.es/SEXTO/ <br> A1: http://ittzelsace.hol.es/SEXTO/2017/06/15/los-gigantes-de-la-apropiacion/ | |
-| Jonathan Sanchez | 0 | 10 + 9 + A1:10 | ? |
-<tr><td colspan="4">Prueba</td></tr>
-| | | Sitio http://subterraneo.esy.es/ | |
-| | | A1: http://subterraneo.esy.es/sin-categoria/06/14/diseno-en-la-tecnologia/ | |
-| Ian Paredes | 1 | 10 + 9 | + A1:10 |
-| | | Sitio http://ddnai.esy.es/ | |
-| | | A1: http://ddnai.esy.es/2017/06/15/la-realidad-virtual/ | |
+  <tr>
+    <td>Diana Martínez</td>
+    <td>10 + 9 + A1:10</td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <ul>
+        <li><b>Url Sitio:</b> http://holaneek.esy.es/</li>
+        <li><b>Url Tema:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Categorías:</b> ????</li>
+        <li><b>Páginas:</b> ????</li>
+      </ul>
+      <ol>
+        <li>http://holaneek.esy.es/abierto-mexicano-de-diseno/</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+  </tr>
+  <tr>
+    <td>Valeria Montalvo</td>
+    <td>10 + 9 + A1:10</td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <ul>
+        <li><b>Url Sitio:</b> http://holaneek.esy.es/</li>
+        <li><b>Url Tema:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Categorías:</b> ????</li>
+        <li><b>Páginas:</b> ????</li>
+      </ul>
+      <ol>
+        <li>http://holaneek.esy.es/cultivo-casero/</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+  </tr>
+  <tr>
+    <td>Cesar Caballero</td>
+    <td>10 + 9 + A1:10</td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <ul>
+        <li><b>Url Sitio:</b> http://cesarbcaballeroglz.esy.es/</li>
+        <li><b>Url Tema:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Categorías:</b> ????</li>
+        <li><b>Páginas:</b> ????</li>
+      </ul>
+      <ol>
+        <li>http://cesarbcaballeroglz.esy.es/proyecto-integrador/</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+  </tr>
+  <tr>
+    <td>Adriana Carreón</td>
+    <td>10 + 9 + A1:10</td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <ul>
+        <li><b>Url Sitio:</b> http://cerobullying.esy.es/</li>
+        <li><b>Url Tema:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Categorías:</b> ????</li>
+        <li><b>Páginas:</b> ????</li>
+      </ul>
+      <ol>
+        <li>http://cerobullying.esy.es/2017/06/nuestra_basura/</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+  </tr>
+  <tr>
+    <td>Jonathan Sanchez</td>
+    <td>10 + 9 + A1:10</td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <ul>
+        <li><b>Url Sitio:</b> http://subterraneo.esy.es/</li>
+        <li><b>Url Tema:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Categorías:</b> ????</li>
+        <li><b>Páginas:</b> ????</li>
+      </ul>
+      <ol>
+        <li>http://subterraneo.esy.es/sin-categoria/06/14/diseno-en-la-tecnologia/</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+  </tr>
+  <tr>
+    <td>Ian Paredes</td>
+    <td>10 + 9 + A1:10</td>
+    <td>1</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <ul>
+        <li><b>Url Sitio:</b> http://ddnai.esy.es/</li>
+        <li><b>Url Tema:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Categorías:</b> ????</li>
+        <li><b>Páginas:</b> ????</li>
+      </ul>
+      <ol>
+        <li>http://ddnai.esy.es/2017/06/15/la-realidad-virtual/</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+  </tr>
+</table>
