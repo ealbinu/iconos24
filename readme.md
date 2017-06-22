@@ -222,8 +222,8 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Url Sitio:</b> http://cesarbcaballeroglz.esy.es/</li>
         <li><b>Url Tema:</b> Portfolio Lite</li>
         <li><b>Enlaces Permanentes:</b> /%postname%/</li>
-        <li><b>Categorías:</b> </li>
-        <li><b>Páginas:</b> Contacto</li>
+        <li><b>Categorías:</b> 3D, Cartel, Consumibles, Convocatoria, Historia, Logotipo, Sedes, Tipos</li>
+        <li><b>Páginas:</b> Abierto Mexicano de Diseño, Activos, Impresoras, Contacto</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
@@ -252,7 +252,7 @@ Información para instalar WordPress localmente con XAMPP
         <li><b>Url Tema:</b> Hestia</li>
         <li><b>Enlaces Permanentes:</b> /%postname%/</li>
         <li><b>Categorías:</b> El reciclaje, Hablemos de Basura, Materiales inorgánicos,  Materiales orgánicos, Notas “El cambio”</li>
-        <li><b>Páginas:</b> Los activos que ayudan a la fundación, Home, Animación, Infografia, ATL Y BTL de Art Trash</li>
+        <li><b>Páginas:</b> ¿Que es ArTrash?, Contacto, Los activos que ayudan a la fundación, Home, Animación, Infografia, ATL Y BTL de Art Trash</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
