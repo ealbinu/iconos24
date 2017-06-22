@@ -221,7 +221,7 @@ Información para instalar WordPress localmente con XAMPP
       <ul>
         <li><b>Url Sitio:</b> http://cesarbcaballeroglz.esy.es/</li>
         <li><b>Url Tema:</b> ????</li>
-        <li><b>Enlaces Permanentes:</b> ????</li>
+        <li><b>Enlaces Permanentes:</b> /%postname%/</li>
         <li><b>Categorías:</b> ????</li>
         <li><b>Páginas:</b> ????</li>
       </ul>
@@ -299,7 +299,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Ian Paredes</td>
-    <td>10 + 9 + A1:10</td>
+    <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>1</td>
     <td>?</td>
   </tr>
@@ -307,15 +307,15 @@ Información para instalar WordPress localmente con XAMPP
     <td colspan="4">
       <ul>
         <li><b>Url Sitio:</b> http://ddnai.esy.es/</li>
-        <li><b>Url Tema:</b> ????</li>
-        <li><b>Enlaces Permanentes:</b> ????</li>
-        <li><b>Categorías:</b> ????</li>
-        <li><b>Páginas:</b> ????</li>
+        <li><b>Url Tema:</b> Verbosa</li>
+        <li><b>Enlaces Permanentes:</b> /%year%/%monthnum%/%day%/%postname%/</li>
+        <li><b>Categorías:</b> Eventos, Internacionales, Nacionales, Noticias, Ecologia, Educación, VR, Opinión, Videos, Animación</li>
+        <li><b>Páginas:</b> Conoce Ventana Digital, Contacto, Ubicanos</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
         <li>http://ddnai.esy.es/2017/06/15/la-realidad-virtual/</li>
-        <li></li>
+        <li>http://ddnai.esy.es/2017/06/21/vr-en-escuelas-de-singapur/</li>
         <li></li>
         <li></li>
         <li></li>
