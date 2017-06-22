@@ -154,9 +154,9 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Diana Martínez</td>
-    <td>10 + 9 + A1:10</td>
+    <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>0</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
