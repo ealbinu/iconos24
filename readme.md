@@ -220,15 +220,15 @@ Información para instalar WordPress localmente con XAMPP
     <td colspan="4">
       <ul>
         <li><b>Url Sitio:</b> http://cesarbcaballeroglz.esy.es/</li>
-        <li><b>Url Tema:</b> ????</li>
+        <li><b>Url Tema:</b> Portfolio Lite</li>
         <li><b>Enlaces Permanentes:</b> /%postname%/</li>
-        <li><b>Categorías:</b> ????</li>
-        <li><b>Páginas:</b> ????</li>
+        <li><b>Categorías:</b> </li>
+        <li><b>Páginas:</b> Contacto</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
         <li>http://cesarbcaballeroglz.esy.es/proyecto-integrador/</li>
-        <li></li>
+        <li>http://cesarbcaballeroglz.esy.es/somos-sustentables/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -243,21 +243,21 @@ Información para instalar WordPress localmente con XAMPP
     <td>Adriana Carreón</td>
     <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>0</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
       <ul>
         <li><b>Url Sitio:</b> http://cerobullying.esy.es/</li>
-        <li><b>Url Tema:</b> ????</li>
-        <li><b>Enlaces Permanentes:</b> ????</li>
-        <li><b>Categorías:</b> ????</li>
-        <li><b>Páginas:</b> ????</li>
+        <li><b>Url Tema:</b> Hestia</li>
+        <li><b>Enlaces Permanentes:</b> /%postname%/</li>
+        <li><b>Categorías:</b> El reciclaje, Hablemos de Basura, Materiales inorgánicos,  Materiales orgánicos, Notas “El cambio”</li>
+        <li><b>Páginas:</b> Los activos que ayudan a la fundación, Home, Animación, Infografia, ATL Y BTL de Art Trash</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
-        <li>http://cerobullying.esy.es/2017/06/nuestra_basura/</li>
-        <li></li>
+        <li>http://cerobullying.esy.es/nuestra_basura/</li>
+        <li>http://cerobullying.esy.es/diseno-al-abierto-mexicano-que-es/</li>
         <li></li>
         <li></li>
         <li></li>
