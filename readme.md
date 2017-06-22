@@ -85,6 +85,15 @@ Información para instalar WordPress localmente con XAMPP
 1. Terminar la definición de URL para el proyecto
 1. Implementación de Formulario (Contact Form 7)
 
+## Clase 5:
+
+* Evaluación 1er Parcial
+
+## Actividades:
+
+1. Entrega del Artículo 3 de su blog (Se revisa Miércoles a las 4pm)
+
+
 ## Primer Parcial:
 
 <table>
