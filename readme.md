@@ -96,7 +96,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Itzel Salinas</td>
-    <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10</td>
+    <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>2</td>
     <td>10</td>
   </tr>
@@ -162,15 +162,15 @@ Información para instalar WordPress localmente con XAMPP
     <td colspan="4">
       <ul>
         <li><b>Url Sitio:</b> http://holaneek.esy.es/</li>
-        <li><b>Url Tema:</b> ????</li>
-        <li><b>Enlaces Permanentes:</b> ????</li>
-        <li><b>Categorías:</b> ????</li>
-        <li><b>Páginas:</b> ????</li>
+        <li><b>Url Tema:</b> Relia</li>
+        <li><b>Enlaces Permanentes:</b> /%postname%/</li>
+        <li><b>Categorías:</b> Ecología, Eventos, Huertos, Productos, Semillas, Tutoriales</li>
+        <li><b>Páginas:</b> Abierto Mexicano del Diseño, Animación, Bienvenido a Neek, Contacto, FAQs, Tienda</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
         <li>http://holaneek.esy.es/abierto-mexicano-de-diseno/</li>
-        <li></li>
+        <li>http://holaneek.esy.es/tips-cultivos-caseros/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -183,23 +183,23 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Valeria Montalvo</td>
-    <td>10 + 9 + A1:10</td>
+    <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>0</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
       <ul>
         <li><b>Url Sitio:</b> http://holaneek.esy.es/</li>
-        <li><b>Url Tema:</b> ????</li>
-        <li><b>Enlaces Permanentes:</b> ????</li>
-        <li><b>Categorías:</b> ????</li>
-        <li><b>Páginas:</b> ????</li>
+        <li><b>Url Tema:</b> Relia</li>
+        <li><b>Enlaces Permanentes:</b> /%postname%/</li>
+        <li><b>Categorías:</b> Ecología, Eventos, Huertos, Productos, Semillas, Tutoriales</li>
+        <li><b>Páginas:</b> Abierto Mexicano del Diseño, Animación, Bienvenido a Neek, Contacto, FAQs, Tienda</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
         <li>http://holaneek.esy.es/cultivo-casero/</li>
-        <li></li>
+        <li>http://holaneek.esy.es/que-cultivar-en-verano/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -212,9 +212,9 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Cesar Caballero</td>
-    <td>10 + 9 + A1:10</td>
+    <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>0</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -241,7 +241,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Adriana Carreón</td>
-    <td>10 + 9 + A1:10</td>
+    <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>0</td>
     <td>?</td>
   </tr>
