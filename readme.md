@@ -98,7 +98,7 @@ Información para instalar WordPress localmente con XAMPP
     <td>Itzel Salinas</td>
     <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>2</td>
-    <td>10</td>
+    <td>9</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -301,7 +301,7 @@ Información para instalar WordPress localmente con XAMPP
     <td>Ian Paredes</td>
     <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10 + 10</td>
     <td>1</td>
-    <td>?</td>
+    <td>9</td>
   </tr>
   <tr>
     <td colspan="4">
