@@ -96,23 +96,23 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Itzel Salinas</td>
-    <td>10 + 9 + A1:10</td>
+    <td>10 + 9 + A1:10 + A2:10 + 10 + 10 + 10 + 10 + 10</td>
     <td>2</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
       <ul>
         <li><b>Url Sitio:</b> http://ittzelsace.hol.es/SEXTO/</li>
-        <li><b>Url Tema:</b> ????</li>
-        <li><b>Enlaces Permanentes:</b> ????</li>
-        <li><b>Categorías:</b> ????</li>
-        <li><b>Páginas:</b> ????</li>
+        <li><b>Url Tema:</b> Shop Isle</li>
+        <li><b>Enlaces Permanentes:</b> /%postname%/</li>
+        <li><b>Categorías:</b> Blog + Tienda de Ropa clasificada por tipo de prendas y por género</li>
+        <li><b>Páginas:</b> Inicio, Destacados, Colecciones, Diseñadores, Outlet, Acerca De, Contcato, Log In</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
-        <li>http://ittzelsace.hol.es/SEXTO/2017/06/15/los-gigantes-de-la-apropiacion/</li>
-        <li></li>
+        <li>http://ittzelsace.hol.es/SEXTO/la-pirateria-en-la-industria-textil-mexicana-2/</li>
+        <li>http://ittzelsace.hol.es/SEXTO/los-gigantes-de-la-apropiacion/</li>
         <li></li>
         <li></li>
         <li></li>
