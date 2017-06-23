@@ -134,9 +134,9 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Mario Huerta</td>
-    <td>0 + 0 + A1:0</td>
+    <td>0 + 0 + A1:0 + A2:0 + 0 + 0 + 0 + 0 + 0 + 0</td>
     <td>1</td>
-    <td>?</td>
+    <td>0</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -279,23 +279,23 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Jonathan Sanchez</td>
-    <td>10 + 9 + A1:10</td>
+    <td>10 + 9 + A1:7 + A2:7 + 7 + 0 + 0 + 8 + 8 + 8</td>
     <td>0</td>
-    <td>?</td>
+    <td>6</td>
   </tr>
   <tr>
     <td colspan="4">
       <ul>
-        <li><b>Url Sitio:</b> http://subterraneo.esy.es/</li>
-        <li><b>Url Tema:</b> ????</li>
-        <li><b>Enlaces Permanentes:</b> ????</li>
-        <li><b>Categorías:</b> ????</li>
-        <li><b>Páginas:</b> ????</li>
+        <li><b>Url Sitio:</b> http://eljonhy.esy.es/</li>
+        <li><b>Url Tema:</b> Beautiful</li>
+        <li><b>Enlaces Permanentes:</b> /%year%/%monthnum%/%day%/%postname%/</li>
+        <li><b>Categorías:</b> Articulo 1, Artículo 2, Imágenes, Información, Portada, Video</li>
+        <li><b>Páginas:</b> No tiene</li>
       </ul>
       <h2>Artículos</h2>
       <ol>
-        <li>http://subterraneo.esy.es/sin-categoria/06/14/diseno-en-la-tecnologia/</li>
-        <li></li>
+        <li>http://eljonhy.esy.es/2017/06/22/diseno-en-la-tecnologia/</li>
+        <li>http://eljonhy.esy.es/2017/06/22/diseno-en-la-tecnologia/</li>
         <li></li>
         <li></li>
         <li></li>
