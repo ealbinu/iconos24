@@ -150,7 +150,7 @@ Información para instalar WordPress localmente con XAMPP
       <h2>Artículos</h2>
       <ol>
         <li>No entregado</li>
-        <li></li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
