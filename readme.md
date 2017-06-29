@@ -340,11 +340,18 @@ Información para instalar WordPress localmente con XAMPP
 ## Clase 6:
 
 * Plugins
+  * Easy Custom CSS/JS
+  * Heateor Social Comments
+  * WooCommerce
 
 
 ## Actividades:
 
 1. Entrega del Artículo 4 de su blog (Se revisa Miércoles a las 4pm)
+1. Integrar y Elegir Sistema de comentarios
+1. Integrar Logo del Proyecto al sitio
+1. Definir el Menú Pricipal del sitio y adaptar el CSS al branding del proyecto
+1. Generar el contenido de alguna Página Estática
 
 ## Segundo Parcial:
 
