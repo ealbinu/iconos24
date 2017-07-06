@@ -337,13 +337,13 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
 </table>
 
+
 ## Clase 6:
 
 * Plugins
   * Easy Custom CSS/JS
   * Heateor Social Comments
   * WooCommerce
-
 
 ## Actividades:
 
@@ -352,6 +352,18 @@ Información para instalar WordPress localmente con XAMPP
 1. Integrar Logo del Proyecto al sitio
 1. Definir el Menú Pricipal del sitio y adaptar el CSS al branding del proyecto
 1. Generar el contenido de alguna Página Estática
+
+
+## Clase 7:
+
+* Plugins
+  * Huge it Gallery
+
+## Actividades:
+
+1. Entrega del Artículo 5 de su blog (Se revisa Miércoles a las 4pm)
+1. Integrar 2 galerías con Huge IT Gallery
+1. Generar el contenido de otra Página Estática
 
 ## Segundo Parcial:
 
@@ -364,7 +376,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Itzel Salinas</td>
-    <td>A3:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -382,7 +394,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://ittzelsace.hol.es/SEXTO/la-pirateria-en-la-industria-textil-mexicana-2/</li>
         <li>http://ittzelsace.hol.es/SEXTO/los-gigantes-de-la-apropiacion/</li>
         <li>http://ittzelsace.hol.es/SEXTO/hemp-fashion-moda-de-canamo/</li>
-        <li></li>
+        <li>http://ittzelsace.hol.es/SEXTO/ropa-hackeada/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -390,10 +402,14 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
         <li></li>
       </ol>
+      <h2>Páginas</h2>
+      <ol>
+        <li>http://ittzelsace.hol.es/SEXTO/acerca-de/</li>
+      </ol>
   </tr>
   <tr>
     <td>Mario Huerta</td>
-    <td>A3:0</td>
+    <td>A3:0 + A4:0 + P1:0 + Logo: 0 + Menú:0</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -411,7 +427,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>No entregado</li>
         <li>No entregado</li>
         <li>No entregado</li>
-        <li></li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
@@ -419,10 +435,14 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
         <li></li>
       </ol>
+      <h2>Páginas</h2>
+      <ol>
+        <li>No entregada</li>
+      </ol>
   </tr>
   <tr>
     <td>Diana Martínez</td>
-    <td>A3:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -440,7 +460,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://holaneek.esy.es/abierto-mexicano-de-diseno/</li>
         <li>http://holaneek.esy.es/tips-cultivos-caseros/</li>
         <li>http://holaneek.esy.es/es-hora-de-tomar-el-te-semillas-que-puedes-cultivar-para-lograrlo/</li>
-        <li></li>
+        <li>http://holaneek.esy.es/diseno-sustentable/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -448,10 +468,14 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
         <li></li>
       </ol>
+      <h2>Páginas</h2>
+      <ol>
+        <li>http://holaneek.esy.es/acerca-de/</li>
+      </ol>
   </tr>
   <tr>
     <td>Valeria Montalvo</td>
-    <td>A3:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -469,7 +493,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://holaneek.esy.es/cultivo-casero/</li>
         <li>http://holaneek.esy.es/que-cultivar-en-verano/</li>
         <li>http://holaneek.esy.es/cultivar-plantas-aromaticas/</li>
-        <li></li>
+        <li>http://holaneek.esy.es/plantar-hierbabuena-sus-beneficios/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -477,10 +501,14 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
         <li></li>
       </ol>
+      <h2>Páginas</h2>
+      <ol>
+        <li>http://holaneek.esy.es/infografia/</li>
+      </ol>
   </tr>
   <tr>
     <td>Cesar Caballero</td>
-    <td>A3:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -498,7 +526,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://cesarbcaballeroglz.esy.es/proyecto-integrador/</li>
         <li>http://cesarbcaballeroglz.esy.es/somos-sustentables/</li>
         <li>http://cesarbcaballeroglz.esy.es/desarrollo-sostenible/</li>
-        <li></li>
+        <li>http://cesarbcaballeroglz.esy.es/de-2d-a-3d/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -506,10 +534,14 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
         <li></li>
       </ol>
+      <h2>Páginas</h2>
+      <ol>
+        <li>http://cesarbcaballeroglz.esy.es/quienes-somos/</li>
+      </ol>
   </tr>
   <tr>
     <td>Adriana Carreón</td>
-    <td>A3:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -527,7 +559,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://cerobullying.esy.es/nuestra_basura/</li>
         <li>http://cerobullying.esy.es/diseno-al-abierto-mexicano-que-es/</li>
         <li>http://cerobullying.esy.es/identifica-cada-uno/</li>
-        <li></li>
+        <li>http://cerobullying.esy.es/el-maltrato-a-la-capa-de-ozono/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -535,10 +567,14 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
         <li></li>
       </ol>
+      <h2>Páginas</h2>
+      <ol>
+        <li>http://cerobullying.esy.es/los-activos-que-ayudan-a-la-fundacion/animacion/que-es-artrash/</li>
+      </ol>
   </tr>
   <tr>
     <td>Jonathan Sanchez</td>
-    <td>A3:8</td>
+    <td>A3:8 + A4:8 + P1:0 + Logo:0 + Menú:0</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -556,7 +592,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://eljonhy.esy.es/2017/06/22/diseno-en-la-tecnologia/</li>
         <li>http://eljonhy.esy.es/2017/06/22/diseno-en-la-educacion/</li>
         <li>http://eljonhy.esy.es/2017/06/28/educacion-en-zona-rural/</li>
-        <li></li>
+        <li>http://eljonhy.esy.es/2017/07/05/formas-de-la-educacion/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -564,10 +600,14 @@ Información para instalar WordPress localmente con XAMPP
         <li></li>
         <li></li>
       </ol>
+      <h2>Páginas</h2>
+      <ol>
+        <li>No entregada</li>
+      </ol>
   </tr>
   <tr>
     <td>Ian Paredes</td>
-    <td>A3:No entregado</td>
+    <td>A3:0 + A4:0 + P1:10 + Logo: 10 + Menú:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -585,13 +625,17 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://ddnai.esy.es/2017/06/15/la-realidad-virtual/</li>
         <li>http://ddnai.esy.es/2017/06/21/vr-en-escuelas-de-singapur/</li>
         <li>No entregado</li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
         <li></li>
         <li></li>
         <li></li>
-        <li></li>
+      </ol>
+      <h2>Páginas</h2>
+      <ol>
+        <li>http://ddnai.esy.es/proyecto-ventana-digital/</li>
       </ol>
   </tr>
 </table>

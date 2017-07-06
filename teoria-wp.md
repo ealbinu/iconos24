@@ -427,6 +427,7 @@ También se puede modificar el comportamiento de WordPress a través de:
 		* [Sitio Web](https://elementor.com/)
 		* [Tutoriales](http://www.arturogarcia.com/elementor-page-builder/)
 * Otros
+  * [Custom Sidebars – Dynamic Widget Area Manager](https://wordpress.org/plugins/custom-sidebars/)
 	* [Loco Translate](https://wordpress.org/plugins/loco-translate/)
 	* [Max Mega Menu](https://wordpress.org/plugins/megamenu/)
 
