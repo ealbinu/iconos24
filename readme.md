@@ -358,6 +358,7 @@ Información para instalar WordPress localmente con XAMPP
 
 * Plugins
   * Huge it Gallery
+  * Custom Sidebars – Dynamic Widget Area Manager
 
 ## Actividades:
 
