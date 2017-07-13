@@ -383,7 +383,7 @@ Información para instalar WordPress localmente con XAMPP
 1. Implementar Cookies y Generar el contenido de la Página de Políticas y/o Términos y Condiciones de Uso
 
 
-## Clase 9:
+## Clase 9 (19/Julio):
 
 * Visibilidad de Contenido
 *
@@ -391,7 +391,7 @@ Información para instalar WordPress localmente con XAMPP
 *
 
 
-## Clase 10:
+## Clase 10 (3/Agosto):
 
 * Presentación de proyectos en clase
 
