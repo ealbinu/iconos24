@@ -612,7 +612,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Jonathan Sanchez</td>
-    <td>A3:8 + A4:8 + P1:8 + Logo:0 + Menú:0 + A5:10 + P2:10</td>
+    <td>A3:8 + A4:8 + P1:8 + Logo:8 + Menú:8 + A5:10 + P2:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
