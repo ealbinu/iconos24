@@ -366,6 +366,35 @@ Información para instalar WordPress localmente con XAMPP
 1. Integrar 2 galerías con Huge IT Gallery
 1. Generar el contenido de otra Página Estática
 
+
+## Clase 8:
+
+* Plugins
+  * Share Buttons by Add This
+  * Any Mobile Theme Switcher
+  * Cookie Bar
+  * MailChimp for WordPress
+  * WP Most Popular
+
+## Actividades:
+
+1. Entrega del Artículo 6 de su blog (Se revisa Miércoles a las 4pm)
+1. Integrar Botones para coompartir Redes Sociales
+1. Implementar Cookies y Generar el contenido de la Página de Políticas y/o Términos y Condiciones de Uso
+
+
+## Clase 9:
+
+* Visibilidad de Contenido
+*
+*
+*
+
+
+## Clase 10:
+
+* Presentación de proyectos en clase
+
 ## Segundo Parcial:
 
 <table>
