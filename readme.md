@@ -404,7 +404,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Itzel Salinas</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -424,7 +424,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://ittzelsace.hol.es/SEXTO/hemp-fashion-moda-de-canamo/</li>
         <li>http://ittzelsace.hol.es/SEXTO/ropa-hackeada/</li>
         <li>http://ittzelsace.hol.es/SEXTO/guerxs-y-morenxs/</li>
-        <li></li>
+        <li>https://docs.google.com/document/d/1O2e4tp1_IRqqJofTcoGAy6WmNkDvy4Ms0qzbaPWlyj4/edit</li>
         <li></li>
         <li></li>
         <li></li>
@@ -438,7 +438,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Mario Huerta</td>
-    <td>A3:0 + A4:0 + P1:0 + Logo: 0 + Menú:0 + A5:0 + P2:0</td>
+    <td>A3:0 + A4:0 + P1:0 + Logo: 0 + Menú:0 + A5:0 + P2:0 + A6:0</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -458,7 +458,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>No entregado</li>
         <li>No entregado</li>
         <li>No entregado</li>
-        <li></li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
@@ -472,7 +472,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Diana Martínez</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -492,7 +492,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://holaneek.esy.es/es-hora-de-tomar-el-te-semillas-que-puedes-cultivar-para-lograrlo/</li>
         <li>http://holaneek.esy.es/diseno-sustentable/</li>
         <li>http://holaneek.esy.es/como-germinar-jitomates/</li>
-        <li></li>
+        <li>http://holaneek.esy.es/no-plagas/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -506,7 +506,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Valeria Montalvo</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -526,7 +526,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://holaneek.esy.es/cultivar-plantas-aromaticas/</li>
         <li>http://holaneek.esy.es/plantar-hierbabuena-sus-beneficios/</li>
         <li>http://holaneek.esy.es/plantar-ajo-en-casa/</li>
-        <li></li>
+        <li>http://holaneek.esy.es/plantar-pimientos-en-casa/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -540,7 +540,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Cesar Caballero</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -560,7 +560,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://cesarbcaballeroglz.esy.es/desarrollo-sostenible/</li>
         <li>http://cesarbcaballeroglz.esy.es/de-2d-a-3d/</li>
         <li>http://cesarbcaballeroglz.esy.es/impresoras/</li>
-        <li></li>
+        <li>http://cesarbcaballeroglz.esy.es/filamentos/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -575,7 +575,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Adriana Carreón</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
     <td>1</td>
     <td>?</td>
   </tr>
@@ -595,7 +595,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://cerobullying.esy.es/identifica-cada-uno/</li>
         <li>http://cerobullying.esy.es/el-maltrato-a-la-capa-de-ozono/</li>
         <li>http://cerobullying.esy.es/objetos-que-se-pueden-reutilizar/</li>
-        <li></li>
+        <li>http://cerobullying.esy.es/artistas-de-basura/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -610,7 +610,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Jonathan Sanchez</td>
-    <td>A3:8 + A4:8 + P1:8 + Logo:8 + Menú:8 + A5:10 + P2:10</td>
+    <td>A3:8 + A4:8 + P1:8 + Logo:8 + Menú:8 + A5:10 + P2:10 + A6:0</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -630,7 +630,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://eljonhy.esy.es/2017/06/28/educacion-en-zona-rural/</li>
         <li>http://eljonhy.esy.es/2017/07/05/formas-de-la-educacion/</li>
         <li>http://eljonhy.esy.es/2017/07/12/como-son-las-escuelas-rurales/</li>
-        <li></li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
@@ -644,7 +644,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Ian Paredes</td>
-    <td>A3:0 + A4:0 + P1:10 + Logo: 10 + Menú:10 + A5:0 + P2:10</td>
+    <td>A3:0 + A4:0 + P1:10 + Logo: 10 + Menú:10 + A5:0 + P2:10 + A6:0</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -664,7 +664,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>No entregado</li>
         <li>No entregado</li>
         <li>No entregado</li>
-        <li></li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
