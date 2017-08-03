@@ -417,9 +417,9 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Itzel Salinas</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:0 + P:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>0</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -451,9 +451,9 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Mario Huerta</td>
-    <td>A3:0 + A4:0 + P1:0 + Logo: 0 + Menú:0 + A5:0 + P2:0 + A6:0 + A7:10 + P:0</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:0 + P2:0 + A6:0 + A7:10 + P:0</td>
     <td>0</td>
-    <td>?</td>
+    <td>6</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -487,7 +487,7 @@ Información para instalar WordPress localmente con XAMPP
     <td>Diana Martínez</td>
     <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>0</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -521,7 +521,7 @@ Información para instalar WordPress localmente con XAMPP
     <td>Valeria Montalvo</td>
     <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>0</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -555,7 +555,7 @@ Información para instalar WordPress localmente con XAMPP
     <td>Cesar Caballero</td>
     <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>0</td>
-    <td>?</td>
+    <td>10</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -590,7 +590,7 @@ Información para instalar WordPress localmente con XAMPP
     <td>Adriana Carreón</td>
     <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>1</td>
-    <td>?</td>
+    <td>9</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -625,7 +625,7 @@ Información para instalar WordPress localmente con XAMPP
     <td>Jonathan Sanchez</td>
     <td>A3:8 + A4:8 + P1:8 + Logo:8 + Menú:8 + A5:10 + P2:10 + A6:0 + A7:10 + P:10</td>
     <td>0</td>
-    <td>?</td>
+    <td>8</td>
   </tr>
   <tr>
     <td colspan="4">
@@ -657,9 +657,9 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Ian Paredes</td>
-    <td>A3:0 + A4:0 + P1:10 + Logo: 10 + Menú:10 + A5:0 + P2:10 + A6:0 + A7:0 + P:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:0 + P2:10 + A6:0 + A7:0 + P:10</td>
     <td>0</td>
-    <td>?</td>
+    <td>6</td>
   </tr>
   <tr>
     <td colspan="4">
