@@ -388,10 +388,23 @@ Información para instalar WordPress localmente con XAMPP
 * Visibilidad de Contenido
 * Roles y Capacidades
 
+## Actividades:
 
-## Clase 10 (3/Agosto):
+1. Entrega del Artículo 7 de su blog (Se revisa Miércoles a las 4pm)
+1. Integrar Botones para coompartir Redes Sociales
+1. Implementar Cookies y Generar el contenido de la Página de Políticas y/o Términos y Condiciones de Uso
+
+## Clase 10:
 
 * Presentación de proyectos en clase
+* Evaluación 2o parcial
+
+## Actividades:
+
+1. Entrega del Artículo 8 de su blog (Se revisa Miércoles a las 4pm)
+1. Integrar Botones para coompartir Redes Sociales
+1. Implementar Cookies y Generar el contenido de la Página de Políticas y/o Términos y Condiciones de Uso
+
 
 ## Segundo Parcial:
 
@@ -404,7 +417,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Itzel Salinas</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:0 + P:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -425,7 +438,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://ittzelsace.hol.es/SEXTO/ropa-hackeada/</li>
         <li>http://ittzelsace.hol.es/SEXTO/guerxs-y-morenxs/</li>
         <li>https://docs.google.com/document/d/1O2e4tp1_IRqqJofTcoGAy6WmNkDvy4Ms0qzbaPWlyj4/edit</li>
-        <li></li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
@@ -438,7 +451,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Mario Huerta</td>
-    <td>A3:0 + A4:0 + P1:0 + Logo: 0 + Menú:0 + A5:0 + P2:0 + A6:0</td>
+    <td>A3:0 + A4:0 + P1:0 + Logo: 0 + Menú:0 + A5:0 + P2:0 + A6:0 + A7:10 + P:0</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -459,7 +472,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>No entregado</li>
         <li>No entregado</li>
         <li>No entregado</li>
-        <li></li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
@@ -472,7 +485,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Diana Martínez</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -493,7 +506,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://holaneek.esy.es/diseno-sustentable/</li>
         <li>http://holaneek.esy.es/como-germinar-jitomates/</li>
         <li>http://holaneek.esy.es/no-plagas/</li>
-        <li></li>
+        <li>http://holaneek.esy.es/bombas-de-semillas/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -506,7 +519,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Valeria Montalvo</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -527,7 +540,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://holaneek.esy.es/plantar-hierbabuena-sus-beneficios/</li>
         <li>http://holaneek.esy.es/plantar-ajo-en-casa/</li>
         <li>http://holaneek.esy.es/plantar-pimientos-en-casa/</li>
-        <li></li>
+        <li>http://holaneek.esy.es/techos-verdes/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -540,7 +553,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Cesar Caballero</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -561,7 +574,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://cesarbcaballeroglz.esy.es/de-2d-a-3d/</li>
         <li>http://cesarbcaballeroglz.esy.es/impresoras/</li>
         <li>http://cesarbcaballeroglz.esy.es/filamentos/</li>
-        <li></li>
+        <li>http://cesarbcaballeroglz.esy.es/mundo-plastico/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -575,7 +588,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Adriana Carreón</td>
-    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10</td>
+    <td>A3:10 + A4:10 + P1:10 + Logo: 10 + Menú:10 + A5:10 + P2:10 + A6:10 + A7:10 + P:10</td>
     <td>1</td>
     <td>?</td>
   </tr>
@@ -596,7 +609,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://cerobullying.esy.es/el-maltrato-a-la-capa-de-ozono/</li>
         <li>http://cerobullying.esy.es/objetos-que-se-pueden-reutilizar/</li>
         <li>http://cerobullying.esy.es/artistas-de-basura/</li>
-        <li></li>
+        <li>http://cerobullying.esy.es/diseno-sustentable/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -610,7 +623,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Jonathan Sanchez</td>
-    <td>A3:8 + A4:8 + P1:8 + Logo:8 + Menú:8 + A5:10 + P2:10 + A6:0</td>
+    <td>A3:8 + A4:8 + P1:8 + Logo:8 + Menú:8 + A5:10 + P2:10 + A6:0 + A7:10 + P:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -631,7 +644,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://eljonhy.esy.es/2017/07/05/formas-de-la-educacion/</li>
         <li>http://eljonhy.esy.es/2017/07/12/como-son-las-escuelas-rurales/</li>
         <li>No entregado</li>
-        <li></li>
+        <li>http://eljonhy.esy.es/2017/08/02/poblacion-rural-en-mexico/</li>
         <li></li>
         <li></li>
         <li></li>
@@ -644,7 +657,7 @@ Información para instalar WordPress localmente con XAMPP
   </tr>
   <tr>
     <td>Ian Paredes</td>
-    <td>A3:0 + A4:0 + P1:10 + Logo: 10 + Menú:10 + A5:0 + P2:10 + A6:0</td>
+    <td>A3:0 + A4:0 + P1:10 + Logo: 10 + Menú:10 + A5:0 + P2:10 + A6:0 + A7:0 + P:10</td>
     <td>0</td>
     <td>?</td>
   </tr>
@@ -665,7 +678,7 @@ Información para instalar WordPress localmente con XAMPP
         <li>No entregado</li>
         <li>No entregado</li>
         <li>No entregado</li>
-        <li></li>
+        <li>No entregado</li>
         <li></li>
         <li></li>
         <li></li>
@@ -675,5 +688,151 @@ Información para instalar WordPress localmente con XAMPP
         <li>http://ddnai.esy.es/proyecto-ventana-digital/</li>
         <li>http://ddnai.esy.es/proyecto-ventana-digital/</li>
       </ol>
+  </tr>
+</table>
+
+## Requisitos Ensayo
+
+* Desplegado en Internet (Requisito indispensable, sólo se evalluará en linea)
+* 10 artículos publicados (30%)
+* Agregar código QR del sitio a la invitación (10%)
+* Menú definido, logo y branding definido (10%)
+* Formulario de contacto (10%)
+* Comentarios Sociales (10%)
+* Widget de Redes Sociales para compartir (10%)
+
+## Pendiente para Clase Final
+
+* Galeria y/o slider de imágenes (10%)
+* Contenidos finales (10%)
+
+## Evaluación Final
+
+<table>
+  <tr>
+    <th>Alumno</th>
+    <th>Actividades</th>
+    <th>Faltas</th>
+    <th>Calificación</th>
+  </tr>
+  <tr>
+    <td>Itzel Salinas</td>
+    <td>
+      Articulos: ??<br>
+      QR: ??<br>
+      Branding: ??<br>
+      Formulario ??<br>
+      Comentarios Sociales ??<br>
+      Widgets: ??<br>
+      Galerias / Slider: ??<br>
+      Contenidos finales: ??
+    </td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Mario Huerta</td>
+    <td>
+      Articulos: ??<br>
+      QR: ??<br>
+      Branding: ??<br>
+      Formulario ??<br>
+      Comentarios Sociales ??<br>
+      Widgets: ??<br>
+      Galerias / Slider: ??<br>
+      Contenidos finales: ??
+    </td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Diana Martínez</td>
+    <td>
+      Articulos: ??<br>
+      QR: ??<br>
+      Branding: ??<br>
+      Formulario ??<br>
+      Comentarios Sociales ??<br>
+      Widgets: ??<br>
+      Galerias / Slider: ??<br>
+      Contenidos finales: ??
+    </td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Valeria Montalvo</td>
+    <td>
+      Articulos: ??<br>
+      QR: ??<br>
+      Branding: ??<br>
+      Formulario ??<br>
+      Comentarios Sociales ??<br>
+      Widgets: ??<br>
+      Galerias / Slider: ??<br>
+      Contenidos finales: ??
+    </td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Cesar Caballero</td>
+    <td>
+      Articulos: ??<br>
+      QR: ??<br>
+      Branding: ??<br>
+      Formulario ??<br>
+      Comentarios Sociales ??<br>
+      Widgets: ??<br>
+      Galerias / Slider: ??<br>
+      Contenidos finales: ??
+    </td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Adriana Carreón</td>
+    <td>
+      Articulos: ??<br>
+      QR: ??<br>
+      Branding: ??<br>
+      Formulario ??<br>
+      Comentarios Sociales ??<br>
+      Widgets: ??<br>
+      Galerias / Slider: ??<br>
+      Contenidos finales: ??
+    </td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Jonathan Sanchez</td>
+    <td>
+      Articulos: ??<br>
+      QR: ??<br>
+      Branding: ??<br>
+      Formulario ??<br>
+      Comentarios Sociales ??<br>
+      Widgets: ??<br>
+      Galerias / Slider: ??<br>
+      Contenidos finales: ??
+    </td>
+    <td>0</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Ian Paredes</td>
+    <td>
+      Articulos: ??<br>
+      QR: ??<br>
+      Branding: ??<br>
+      Formulario ??<br>
+      Comentarios Sociales ??<br>
+      Widgets: ??<br>
+      Galerias / Slider: ??<br>
+      Contenidos finales: ??
+    </td>
+    <td>0</td>
+    <td>?</td>
   </tr>
 </table>
