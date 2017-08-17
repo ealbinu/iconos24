@@ -718,12 +718,12 @@ Información para instalar WordPress localmente con XAMPP
   <tr>
     <td>Itzel Salinas</td>
     <td>
-      Articulos: ??<br>
-      QR: ??<br>
-      Branding: ??<br>
-      Formulario ??<br>
-      Comentarios Sociales ??<br>
-      Widgets: ??<br>
+      Articulos: 30<br>
+      QR: 10<br>
+      Branding: 10<br>
+      Formulario: 10<br>
+      Comentarios Sociales: 10<br>
+      Widgets: 10<br>
       Galerias / Slider: ??<br>
       Contenidos finales: ??
     </td>
@@ -733,12 +733,12 @@ Información para instalar WordPress localmente con XAMPP
   <tr>
     <td>Mario Huerta</td>
     <td>
-      Articulos: ??<br>
-      QR: ??<br>
-      Branding: ??<br>
-      Formulario ??<br>
-      Comentarios Sociales ??<br>
-      Widgets: ??<br>
+      Articulos: 0<br>
+      QR: 0<br>
+      Branding: 0<br>
+      Formulario 0<br>
+      Comentarios Sociales 0<br>
+      Widgets: 0<br>
       Galerias / Slider: ??<br>
       Contenidos finales: ??
     </td>
@@ -748,12 +748,12 @@ Información para instalar WordPress localmente con XAMPP
   <tr>
     <td>Diana Martínez</td>
     <td>
-      Articulos: ??<br>
-      QR: ??<br>
-      Branding: ??<br>
-      Formulario ??<br>
-      Comentarios Sociales ??<br>
-      Widgets: ??<br>
+      Articulos: 21<br>
+      QR: 10<br>
+      Branding: 10<br>
+      Formulario 10<br>
+      Comentarios Sociales 10<br>
+      Widgets: 10<br>
       Galerias / Slider: ??<br>
       Contenidos finales: ??
     </td>
@@ -763,12 +763,12 @@ Información para instalar WordPress localmente con XAMPP
   <tr>
     <td>Valeria Montalvo</td>
     <td>
-      Articulos: ??<br>
-      QR: ??<br>
-      Branding: ??<br>
-      Formulario ??<br>
-      Comentarios Sociales ??<br>
-      Widgets: ??<br>
+      Articulos: 24<br>
+      QR: 10<br>
+      Branding: 10<br>
+      Formulario 10<br>
+      Comentarios Sociales 10<br>
+      Widgets: 10<br>
       Galerias / Slider: ??<br>
       Contenidos finales: ??
     </td>
@@ -778,13 +778,13 @@ Información para instalar WordPress localmente con XAMPP
   <tr>
     <td>Cesar Caballero</td>
     <td>
-      Articulos: ??<br>
-      QR: ??<br>
-      Branding: ??<br>
-      Formulario ??<br>
-      Comentarios Sociales ??<br>
-      Widgets: ??<br>
-      Galerias / Slider: ??<br>
+      Articulos: 30<br>
+      QR: 10<br>
+      Branding: 10<br>
+      Formulario 10<br>
+      Comentarios Sociales 10<br>
+      Widgets: 10<br>
+      Galerias / Slider: 10<br>
       Contenidos finales: ??
     </td>
     <td>0</td>
@@ -793,12 +793,12 @@ Información para instalar WordPress localmente con XAMPP
   <tr>
     <td>Adriana Carreón</td>
     <td>
-      Articulos: ??<br>
-      QR: ??<br>
-      Branding: ??<br>
-      Formulario ??<br>
-      Comentarios Sociales ??<br>
-      Widgets: ??<br>
+      Articulos: 30<br>
+      QR: 10<br>
+      Branding: 10<br>
+      Formulario 10<br>
+      Comentarios Sociales 10<br>
+      Widgets: 10<br>
       Galerias / Slider: ??<br>
       Contenidos finales: ??
     </td>
@@ -808,12 +808,12 @@ Información para instalar WordPress localmente con XAMPP
   <tr>
     <td>Jonathan Sanchez</td>
     <td>
-      Articulos: ??<br>
-      QR: ??<br>
-      Branding: ??<br>
-      Formulario ??<br>
-      Comentarios Sociales ??<br>
-      Widgets: ??<br>
+      Articulos: 18<br>
+      QR: 5<br>
+      Branding: 10<br>
+      Formulario 0<br>
+      Comentarios Sociales 10<br>
+      Widgets: 10<br>
       Galerias / Slider: ??<br>
       Contenidos finales: ??
     </td>
@@ -823,12 +823,12 @@ Información para instalar WordPress localmente con XAMPP
   <tr>
     <td>Ian Paredes</td>
     <td>
-      Articulos: ??<br>
-      QR: ??<br>
-      Branding: ??<br>
-      Formulario ??<br>
-      Comentarios Sociales ??<br>
-      Widgets: ??<br>
+      Articulos: 12<br>
+      QR: 5<br>
+      Branding: 10<br>
+      Formulario 10<br>
+      Comentarios Sociales 10<br>
+      Widgets: 10<br>
       Galerias / Slider: ??<br>
       Contenidos finales: ??
     </td>
